@@ -1,5 +1,8 @@
 **Cyber Connect – Password Management Policy (Dummy)**
 
+<img width="669" height="561" alt="image" src="https://github.com/user-attachments/assets/6a11f093-1d01-42bd-9c8f-9bb4496410c9" />
+
+
 **1. Purpose**
 To ensure secure creation, usage, and management of passwords for protecting organizational systems and data.
 
